@@ -1,2 +1,2 @@
-# My-Gallery
-Gallery that displays data visualizations
+# Gallery
+A gallery that showcases data visualization techniques

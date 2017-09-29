@@ -1,0 +1,13 @@
+base
+nycflights13
+lubridate
+ggplot2
+dplyr
+lattice
+ggformula
+mosaicData
+Matrix
+mosaic
+babynames
+tidyr
+bindrcpp
